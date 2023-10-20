@@ -162,3 +162,6 @@ cython_debug/
 
 base_de_dados.txt
 end_points.txt
+
+templates/static/assets/bootstrap/*
+templates/static/assets/font-awesome/*
